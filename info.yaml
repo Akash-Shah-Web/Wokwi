@@ -26,7 +26,7 @@ pinout:
   ui[7]: "input r"
 
   # Outputs
-  uo[0]: "output a" NAND "input b"
+  uo[0]: "output a NAND input b"
   uo[1]: ""
   uo[2]: "input c"
   uo[3]: "input d"
