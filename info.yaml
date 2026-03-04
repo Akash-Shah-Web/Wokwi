@@ -36,7 +36,7 @@ pinout:
   uo[7]: "input r"
 
   # Bidirectional pins
-  uio[0]: ""
+  uio[0]: "None"
   uio[1]: ""
   uio[2]: ""
   uio[3]: ""
